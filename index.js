@@ -1,15 +1,15 @@
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-  GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+
+██╗░█████╗░░██████╗
+██║██╔══██╗██╔════╝
+██║██║░░╚═╝╚█████╗░
+██║██║░░██╗░╚═══██╗
+██║╚█████╔╝██████╔╝
+╚═╝░╚════╝░╚═════╝░       
+  GIT : https://github.com/iCrackStuff
+  DISCORD SERVER : https://discord.gg/6V4a639yyM
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by ICrackStuff
  * **********************************************
  */
 
@@ -53,17 +53,17 @@ async function login() {
 }
 
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+
+██╗░█████╗░░██████╗
+██║██╔══██╗██╔════╝
+██║██║░░╚═╝╚█████╗░
+██║██║░░██╗░╚═══██╗
+██║╚█████╔╝██████╔╝
+╚═╝░╚════╝░╚═════╝░       
+  GIT : https://github.com/iCrackStuff
+  DISCORD SERVER : https://discord.gg/6V4a639yyM
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by ICrackStuff
  * **********************************************
  */
 
@@ -104,16 +104,16 @@ client.once('ready', () => {
 login();
 
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+
+██╗░█████╗░░██████╗
+██║██╔══██╗██╔════╝
+██║██║░░╚═╝╚█████╗░
+██║██║░░██╗░╚═══██╗
+██║╚█████╔╝██████╔╝
+╚═╝░╚════╝░╚═════╝░       
+  GIT : https://github.com/iCrackStuff
+  DISCORD SERVER : https://discord.gg/6V4a639yyM
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by ICrackStuff
  * **********************************************
  */
