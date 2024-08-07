@@ -1,15 +1,15 @@
 /**
-
-██╗░█████╗░░██████╗
-██║██╔══██╗██╔════╝
-██║██║░░╚═╝╚█████╗░
-██║██║░░██╗░╚═══██╗
-██║╚█████╔╝██████╔╝
-╚═╝░╚════╝░╚═════╝░       
-  GIT : https://github.com/iCrackStuff
-  DISCORD SERVER : https://discord.gg/6V4a639yyM
+ ██████╗░████████╗██╗░░██╗           
+ ██╔══██╗╚══██╔══╝╚██╗██╔╝          
+ ██████╔╝░░░██║░░░░╚███╔╝░          
+ ██╔══██╗░░░██║░░░░██╔██╗░          
+ ██║░░██║░░░██║░░░██╔╝╚██╗          
+ ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
+  GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
+  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
+  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
  * **********************************************
- *   Code by ICrackStuff
+ *   Code by RTX GAMING
  * **********************************************
  */
 
@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["HELPING"];
+const statusMessages = ["PLAYING","MUSIC"];
 
 
 let currentIndex = 0;
@@ -53,17 +53,17 @@ async function login() {
 }
 
 /**
-
-██╗░█████╗░░██████╗
-██║██╔══██╗██╔════╝
-██║██║░░╚═╝╚█████╗░
-██║██║░░██╗░╚═══██╗
-██║╚█████╔╝██████╔╝
-╚═╝░╚════╝░╚═════╝░       
-  GIT : https://github.com/iCrackStuff
-  DISCORD SERVER : https://discord.gg/6V4a639yyM
+ ██████╗░████████╗██╗░░██╗           
+ ██╔══██╗╚══██╔══╝╚██╗██╔╝          
+ ██████╔╝░░░██║░░░░╚███╔╝░          
+ ██╔══██╗░░░██║░░░░██╔██╗░          
+ ██║░░██║░░░██║░░░██╔╝╚██╗          
+ ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
+GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
+  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
+  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
  * **********************************************
- *   Code by ICrackStuff
+ *   Code by RTX GAMING
  * **********************************************
  */
 
@@ -104,16 +104,16 @@ client.once('ready', () => {
 login();
 
 /**
-
-██╗░█████╗░░██████╗
-██║██╔══██╗██╔════╝
-██║██║░░╚═╝╚█████╗░
-██║██║░░██╗░╚═══██╗
-██║╚█████╔╝██████╔╝
-╚═╝░╚════╝░╚═════╝░       
-  GIT : https://github.com/iCrackStuff
-  DISCORD SERVER : https://discord.gg/6V4a639yyM
+ ██████╗░████████╗██╗░░██╗           
+ ██╔══██╗╚══██╔══╝╚██╗██╔╝          
+ ██████╔╝░░░██║░░░░╚███╔╝░          
+ ██╔══██╗░░░██║░░░░██╔██╗░          
+ ██║░░██║░░░██║░░░██╔╝╚██╗          
+ ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
+GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
+  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
+  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
  * **********************************************
- *   Code by ICrackStuff
+ *   Code by RTX GAMING
  * **********************************************
  */
